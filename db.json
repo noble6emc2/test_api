@@ -1,21 +1,23 @@
 {
-    "status": "OK",
-    "msg": "",
-    "data": {
-        "word&number": [
-            "think 298",
-            "teaching 236",
-            "use 227",
-            "using 219",
-            "make 138",
-            "understand 130",
-            "learning 118",
-            "ask 114",
-            "improved 104",
-            "done 99"
-        ],
-        "freq": 0.15,
-        "dataNum": 6315,
-        "wordNum": 11452
-    }
+  "post": {
+                "status": "OK",
+                "msg": "",
+                "data": {
+                    "word&number": [
+                        "think 298",
+                        "teaching 236",
+                        "use 227",
+                        "using 219",
+                        "make 138",
+                        "understand 130",
+                        "learning 118",
+                        "ask 114",
+                        "improved 104",
+                        "done 99"
+                    ],
+                    "freq": 0.15,
+                    "dataNum": 6315,
+                    "wordNum": 11452
+                }
+            }
 }
